@@ -1,0 +1,7 @@
+_target="arm-eabi"
+_reldate="2018.05"
+_relver="7.3"
+_gccver="7.3.1"
+_sha256sum="0853f60e826651a9f95fa77a92d64cec0ede214004d360e10f17cbf0414961ac"
+
+source pkgbuild.sh
