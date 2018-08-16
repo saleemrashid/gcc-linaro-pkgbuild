@@ -1,0 +1,7 @@
+_target="arm-linux-gnueabihf"
+_reldate="2018.05"
+_relver="7.3"
+_gccver="7.3.1"
+_sha256sum="7248bf105d0d468887a9b8a7120bb281ac8ad0223d9cb3d00dc7c2d498485d91"
+
+source pkgbuild.sh
